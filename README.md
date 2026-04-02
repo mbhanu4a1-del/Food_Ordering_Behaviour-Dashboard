@@ -16,4 +16,4 @@ This project analyzes customer food ordering behavior using Power BI.
 - Power BI
 - DAX
 - Data Modeling
-<img width="1701" height="760" alt="Screenshot 2026-04-02 121105" src="https://github.com/user-attachments/assets/05a3a9cf-c532-416e-a4ee-77a646a73ffe" />
+<img width="1485" height="746" alt="Screenshot 2026-04-02 122732" src="https://github.com/user-attachments/assets/2c5937dc-b0a0-4792-b0c0-f66b81743a6d" />
